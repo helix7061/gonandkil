@@ -1,0 +1,70 @@
+body {
+    background: white;
+    font-family: Tahoma , serif;
+    font-weight: normal;
+}
+h1 {
+    font-size: 60px;
+    color: black;
+    padding: 10px;
+    border-bottom: 8px solid lightseagreen;
+}
+.header {
+    background: lightpink;
+    font-size: 35px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.header p {
+    font-size: 30px;
+    padding: 10px;
+}
+.middle {
+    background: rgb(128, 128, 139);
+    font-size: 35px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.middle p {
+    font-size: 30px;
+    padding: 10px;
+}
+.hz {
+    font-size: 35px;
+    background: rgb(177, 130, 45);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.hz p {
+    font-size: 30px;
+    padding: 10px;
+}
+.idk {
+    background: rgb(165, 132, 165);
+    font-size: 35px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.idk p {
+    font-size: 30px;
+    padding: 10px;
+}
+
+
